@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "name": "rafi",
+      "email": "rafi@test.com",
+      "password": "rafi@123",
+      "id": 1
+    },
+    {
+      "name": "jamal",
+      "email": "jamal@test.com",
+      "password": "12345678",
+      "id": 2
+    },
+    {
+      "name": "rakib mahmud robin",
+      "email": "rakibmahmud@gmail.com",
+      "password": "rakib@112233",
+      "id": 3
+    },
+    {
+      "name": "test",
+      "email": "test@test.com",
+      "password": "test@123",
+      "id": 4
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "KFC",
+      "address": "house 07, road 1, dhaka.",
+      "contact": 1122
+    },
+    {
+      "id": 2,
+      "name": "Pizza hut",
+      "address": "house 08, road 2, dhaka.",
+      "contact": 2233
+    },
+    {
+      "id": 3,
+      "name": "Burger kings",
+      "address": "house 09, road 3, dhaka.",
+      "contact": 3344
+    },
+    {
+      "name": "Ad incidunt eaque e",
+      "address": "Neque eum Nam offici",
+      "contact": "657567",
+      "id": 4
+    },
+    {
+      "name": "Sapiente velit eiusm",
+      "address": "Consequuntur veritat",
+      "contact": "567856",
+      "id": 5
+    },
+    {
+      "name": "Excepteur irure amet",
+      "address": "Elit excepteur tene",
+      "contact": "2342",
+      "id": 6
+    },
+    {
+      "name": "Veniam sapiente ips",
+      "address": "Exercitationem dolor",
+      "contact": "213123",
+      "id": 8
+    }
+  ]
+}
